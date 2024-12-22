@@ -1,0 +1,48 @@
+body {
+    font-family: open-regular;
+}
+
+body p,
+body span,
+body a {
+    line-height: 18pt;
+    letter-spacing: 1px;
+    margin: 0;
+}
+
+a {
+    outline: none !important;
+    text-decoration: none !important;
+}
+
+.p0 {
+    padding: 0;
+}
+
+.m0 {
+    margin: 0;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.mb30 {
+    margin-bottom: 30px;
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.sectionP60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.header-bg {
+    background: url('../images/main-bg.jpg') no-repeat center top;
+    background-size: cover;
+}
